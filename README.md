@@ -2,11 +2,11 @@
 
 *Information Systems student | Backend developer in training*
 
-Hello! I'm *Arthur Lopes Clemente, I'm **20 years old* and I'm from *Espírito Santo*.
+Hello! I'm Arthur Lopes Clemente, I'm 20 years old and I'm from Espírito Santo*.
 
-I'm currently studying *Information Systems* at *UniSales - Salesian University Center*.
+I'm currently studying Information Systems at UniSales - Salesian University Center.
 
-I focus on *backend development with Java, **databases, and **REST APIs*, aiming to build practical and solid projects to evolve technically and gain experience in software development.
+I focus on backend development with Java, databases, and REST APIs, aiming to build practical and solid projects to evolve technically and gain experience in software development.
 
 ---
 
