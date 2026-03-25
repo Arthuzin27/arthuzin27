@@ -47,7 +47,7 @@ I focus on *backend development with Java, **databases, and **REST APIs*, aiming
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - ✉️ *E-mail:* arthurlopesclemente@gmail.com  
 - 📍 *Location:* Espírito Santo - ES  
@@ -56,7 +56,7 @@ I focus on *backend development with Java, **databases, and **REST APIs*, aiming
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objective
 
 I am seeking opportunities to develop my skills in programming, backend development, and databases, building projects that strengthen my technical foundation and bring me closer to the technology market.
 
