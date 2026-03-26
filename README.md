@@ -33,16 +33,8 @@ I focus on backend development with Java, databases, and REST APIs, aiming to bu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    alt="Arthur's GitHub Stats" 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Arthuzin27&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthuzin27&layout=compact&theme=tokyonight&langs_count=6&custom_title=Linguagens+Mais+Usadas" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuzin27&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthuzin27&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" width="51%" />
 </p>
 
 ---
