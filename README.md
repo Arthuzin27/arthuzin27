@@ -33,7 +33,6 @@ I focus on backend development with Java, databases, and REST APIs, aiming to bu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthuzin27&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthuzin27&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" width="51%" />
 </p>
 
