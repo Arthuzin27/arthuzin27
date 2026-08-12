@@ -40,7 +40,8 @@ I focus on backend development with Java, databases, and REST APIs, aiming to bu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthuzin27&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" width="51%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=arthuzin27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="45%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arthuzin27&layout=compact&theme=tokyonight&langs_count=6&hide=html,css&hide_border=true" width="49%" />
 </p>
 
 ---
